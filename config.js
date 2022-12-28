@@ -9,7 +9,7 @@ global.owner = JSON.parse(fs.readFileSync('./settings/owner.json')) // Put your 
 global.mods = JSON.parse(fs.readFileSync('./settings/moderator.json')) // Want some help?
 
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  // name: 'https://api-api-.nafanfalakhil.repl.co'
   nrtm: 'https://nurutomo.herokuapp.com',
   bg: 'http://bochil.ddns.net',
   xteam: 'https://api.xteam.xyz',
@@ -25,7 +25,7 @@ global.APIs = { // API Prefix
   males: 'https://malesin.xyz'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://api.zeeoneofc.xyz/docs': 'ez5RSThO'
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://api.xteam.xyz': 'apikeylu',
   'https://melcanz.com': 'apikeylu',
@@ -43,11 +43,11 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 global.Intervalmsg = 1800 //detik
 
 //========Url Template Buttons=========//
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
+global.dtu = 'IG'
 global.urlnya = "https://www.instagram.com/nafanfalakhil"
 
 //============= callButtons =============//
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
+global.dtc = 'Takashi'
 global.phn = '+62 857-9128-3043'
 
 //============= Games ================//
@@ -58,12 +58,12 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = data.namabot;
-global.author = data.owner;
+global.packname = data.namabot;Nezabot
+global.author = data.owner;Takashi
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ナファン'
+        global.colong2 = 'By Takashi'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
