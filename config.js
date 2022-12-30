@@ -9,7 +9,7 @@ global.owner = JSON.parse(fs.readFileSync('./settings/owner.json')) // Put your 
 global.mods = JSON.parse(fs.readFileSync('./settings/moderator.json')) // Want some help?
 
 global.APIs = { // API Prefix
-  // name: 'https://api-api-.nafanfalakhil.repl.co'
+  // name: 'https://'
   nrtm: 'https://nurutomo.herokuapp.com',
   bg: 'http://bochil.ddns.net',
   xteam: 'https://api.xteam.xyz',
@@ -25,7 +25,7 @@ global.APIs = { // API Prefix
   males: 'https://malesin.xyz'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://api.zeeoneofc.xyz/docs': 'ez5RSThO'
+  // 'https://': 'your apikey'
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://api.xteam.xyz': 'apikeylu',
   'https://melcanz.com': 'apikeylu',
